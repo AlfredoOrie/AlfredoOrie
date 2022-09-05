@@ -6,7 +6,7 @@ A biotechnologist/sofware development engineer who isn't afraid to face a challe
 - 🌱 I’m currently learning software engineering and web development...
 - 👯 I’m looking to collaborate with senior developers and blockchain engineers
 - 🤔 I’m looking for help with a few stuffs ...
-- 💬 Ask me about my journey into web development
+- 💬 Ask me about my journey into software engineering 
 - 📫 Reach me: alfredkhay@gmail.com or +2348108310675
 
 # 💻 Tech Stack:
