@@ -19,4 +19,4 @@ A biotechnologist/sofware development engineer who isn't afraid to face a challe
 
 ## Extras
 
-![App Screenshot](https://i.postimg.cc/Wp02dC4S/IMG-20220905-174743.jpg)
+![App Screenshot](https://i.postimg.cc/ZnLckXck/IMG-20220905-175433.jpg)
