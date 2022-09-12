@@ -1,11 +1,12 @@
+## Xclusivfred
+<img src="https://i.postimg.cc/3NKqHHQL/IMG-20220803-WA0001.jpg" alt="Alfredo's photo">
+
 ### Hi there 👋, I'm Orie, Alfredo Kalu
 
 A biotechnologist/sofware development engineer who isn't afraid to face a challenge and loves creating things with codes...
 
-- 🔭 I’m currently working on being a software engineer...
 
-- 👯 I’m looking to collaborate with senior developers and blockchain engineers
-- 🤔 I’m looking for help with a few stuffs ...
+- 👯 I’m looking to collaborate with other developers and engineers
 - 💬 Ask me about my journey into software engineering 
 - 📫 Reach me: alfredkhay@gmail.com or +2348108310675
 
