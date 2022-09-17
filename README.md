@@ -1,5 +1,5 @@
 ## Xclusivfred
-<img src="https://i.postimg.cc/3NKqHHQL/IMG-20220803-WA0001.jpg" alt="Alfredo's photo">
+<img src="https://i.postimg.cc/CKWXS6Lr/image-eed48f85-f843-454a-8724-751ff5b55e9b20220729-144314-1663417674070.jpg" alt="Alfredo's photo">
 
 ### Hi there 👋, I'm Orie, Alfredo Kalu
 
