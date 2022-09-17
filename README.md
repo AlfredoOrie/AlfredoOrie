@@ -5,7 +5,7 @@
 
 A biotechnologist/sofware development engineer who isn't afraid to face a challenge and loves creating things with codes...
 
-
+- 📞 I'm <b>contactable</b>, <b>responsive</b> and <b>communicative</b>
 - 👯 I’m looking to collaborate with other developers and engineers
 - 💬 Ask me about my journey into software engineering 
 - 📫 Reach me: alfredkhay@gmail.com or +2348108310675
