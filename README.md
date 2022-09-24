@@ -23,16 +23,9 @@ A biotechnologist/software development engineer who isn't afraid to face a chall
 ![App Screenshot](https://i.postimg.cc/8cxKdtwS/IMG-20220905-175756.jpg)
 
 ![Metrics](https://metrics.lecoq.io/xclusivfred?template=classic&habits=1&languages=1&projects=1&lines=1&traffic=1&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.trim=false&projects.limit=4&projects.descriptions=false&config.timezone=Africa%2FLagos)
-[![trophy](https://github-profile-trophy.vercel.app/?username=xclusivfred&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=xclusivfred&count_private=true&theme=tokyonight&showicons=true)]()
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=xclusivfred&theme=dark)](https://git.io/streak-stats)
 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=xclusivfred&langs_count=5&theme=tokyonight)]()
-
 ![](https://komarev.com/ghpvc/?username=xclusivfred&color=green)
-
-<img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=xclusivfred&badges=2&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px" alt="Codersrank" height="40" style="vertical-align:top; margin:4px">
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=xclusivfred&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
