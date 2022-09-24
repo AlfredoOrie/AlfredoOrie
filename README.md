@@ -23,9 +23,3 @@ A biotechnologist/software development engineer who isn't afraid to face a chall
 ![App Screenshot](https://i.postimg.cc/8cxKdtwS/IMG-20220905-175756.jpg)
 
 ![Metrics](https://metrics.lecoq.io/xclusivfred?template=classic&habits=1&languages=1&projects=1&lines=1&traffic=1&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.trim=false&projects.limit=4&projects.descriptions=false&config.timezone=Africa%2FLagos)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=xclusivfred&theme=dark)](https://git.io/streak-stats)
-
-![](https://komarev.com/ghpvc/?username=xclusivfred&color=green)
-
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=xclusivfred&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
