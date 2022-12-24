@@ -3,7 +3,7 @@
 
 ### Hi there! 👋 I'm Orie, Alfredo Kalu
 
-A Generalist, Developer and Biotechnologist who isn't afraid to face a challenge and loves creating things with codes.
+A Generalist, Developer and Biotechnologist who isn't afraid to face a challenge and loves creating things with code.
 
 - 📞 I'm <b>contactable</b>, <b>responsive</b> and <b>communicative</b>
 - 👯 I’m looking to collaborate with other developers and engineers
