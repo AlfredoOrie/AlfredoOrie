@@ -3,11 +3,9 @@
 
 ### Hi there! 👋 I'm Orie, Alfredo Kalu
 
-A Generalist, Developer and Biotechnologist who isn't afraid to face a challenge and loves creating things with code.
-
-- 📞 I'm <b>contactable</b>, <b>responsive</b> and <b>communicative</b>
-- 👯 I’m looking to collaborate with other developers and engineers
-- 💬 Ask me about my journey into software engineering 
+- 📞 Builder, learner and explorer with experience in Biotechnology, Leadership and Computer Software .
+- 👯 Focuses on what is in front of me and over-performs, knowing when to let go of a dream and following a new one while living a life of service by using my resources to benefit others and networking to let my contributions speak for me.
+- 💬 Commited to innovation growth, sustainability and open to explore.. 
 - 📫 Reach me: alfredkhay@gmail.com or +2348108310675
 
 # 💻 Tech Stack:
