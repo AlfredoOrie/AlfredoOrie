@@ -3,9 +3,8 @@
 
 ### Hi there! 👋 I'm Orie, Alfredo Kalu
 
-- 📞 Builder, learner and explorer with experience in Biotechnology, Leadership and Computer Software .
-- 👯 Focuses on what is in front of me and over-performs, knowing when to let go of a dream and following a new one while living a life of service by using my resources to benefit others and networking to let my contributions speak for me.
-- 💬 Commited to innovation growth, sustainability and open to explore.. 
+- 📞 Versatile and result-driven individual committed to leveraging my multidisciplinary expertise in Biotechnology, Information technology and Leadership to excel in a challenging professional role. Seeking positions where I can utilize my technical acumen, leadership abilities, and adaptability to deliver innovative solutions, drive business growth, and make a positive impact in a dynamic and diverse industry. 
+- 💬 Open to opportunities that value creativity, collaboration, and continuous learning, with a focus on achieving results and exceeding expectations.
 - 📫 Reach me: alfredkhay@gmail.com or +2348108310675
 
 # 💻 Tech Stack:
