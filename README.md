@@ -1,7 +1,7 @@
 ## Xclusivfred.me
 <img src="https://i.postimg.cc/W4zhd1Xx/IMG-5440.jpg" alt="Alfredo's photo">
 
-### Hi there! 👋 I'm Orie, Alfredo Kalu
+### Hi there! 👋 I'm Alfredo Kalu Orie
 
 - 📞 Versatile and result-driven individual committed to leveraging my multidisciplinary expertise in Biotechnology, Information technology and Leadership to excel in a challenging professional role. Seeking positions where I can utilize my technical acumen, leadership abilities, and adaptability to deliver innovative solutions, drive business growth, and make a positive impact in a dynamic and diverse industry. 
 - 💬 Open to opportunities that value creativity, collaboration, and continuous learning, with a focus on achieving results and exceeding expectations.
